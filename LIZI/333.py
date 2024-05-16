@@ -4,6 +4,10 @@
 # 时间 2024/5/7 21:06
 # 导入opencv工具包
 import cv2
+
+
+
+#JAFUJDWJDAHJWIAHFWAFHAIWFHAIWHFIDA
 # 导入numpy
 import numpy as np
 # 导入姿势识别器
